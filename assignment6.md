@@ -20,7 +20,7 @@
 5. Open `index.php` and complete the code to display all the records from the users table. As shown below:
    |SN | Last Name | First Name | Gender | Date of Birth | Email |
    |---|---|---|---|---|---|
-   | 1 | Igwe | Chimdindu | F | 2000-06-15 | igwec@gmail.com |
+   | 1 | Ikechukwu | Eric | M | 2001-02-16 | ikechukwueric21@gmail.com |
 6. Submit a link to your updated CSC 309 GitHub Repo [here](https://bit.ly/csc-309-assignment).
 
 ---
